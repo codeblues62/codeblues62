@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/codexderes"><img src="./Doc/logo.png"></a>
+  <a href="https://github.com/codexderes"><img src="logo.png"></a>
   <h1>CodeXDeres Indonesia</h1>
 </p>
 
