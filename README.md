@@ -20,7 +20,7 @@ _Cheap | Comfortable | Quality_
 
 **Statistika / Status Github**
 
- <a href="https://github.com/codexderes"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codexderes&show_icons=true&bg_color=0000" alt="CodeXDeres github stats" /></a>  <a href="https://github.com/codexderes"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexderes&langs_count=10&hide=batchfile,pascal,hack,roff,scss&layout=compact&bg_color=0000" /></a>
+ <a href="https://github.com/codexderes"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codexderes&show_icons=true&bg_color=0000" alt="CodeXDeres github stats" /></a><a href="https://github.com/codexderes"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexderes&langs_count=10&hide=batchfile,pascal,hack,roff,scss&layout=compact&bg_color=0000" /></a>
 
 [forums]: https://t.me/codexderes
 [github]: https://github.com/codexderes/
