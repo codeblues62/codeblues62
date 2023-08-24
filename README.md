@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/codeblues62"><img src="https://c.top4top.io/p_2792zgqu51.png" width="330"></a>
+  <a href="https://github.com/codeblues62"><img src="logo.PNG"></a>
   <h1>Code Blues Indonesia</h1>
 </p>
 
