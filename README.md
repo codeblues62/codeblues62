@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/codeblues62"><img src="logo.PNG"></a>
 </p>
+
 ### MISI
 1. Melayani Member dan/atau Anggota dengan penuh kenyamanan.
 2. Utamakan & Prioritaskan keamanan Privacy Member dan/atau Anggota yang terlindungi dengan ketat.
