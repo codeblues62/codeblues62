@@ -10,6 +10,7 @@
 5. Mampu menciptakan lingkungan yang baik, jujur, komitmen, dan konsisten pada jalur yang dipilih Member dan/atau Anggota.
 
 > Kami akan menyediakan berbagai macam sajian informasi & edukasi untuk para generasi bangsa Indonesia. Didalam Repository kami akan selalu ada materi atau teori seputar teknologi baik dalam bentuk teks, visual gambar / video, dan juga source code yang mendukung.
+> Berminat & ingin bergabung dengan komunitas kami? [Gabung Sekarang!](https://t.me/codeblues62)
 > <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeblues62&label=Profile%20views&color=0e75b6&style=flat" alt="codeblues62" /> </p>
 
 <h3 align="left">Connect with me:</h3>
